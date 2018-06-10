@@ -398,3 +398,5 @@ def query_viewmodel(user, query, title=None, form=None, message=None, run_query=
         'unsafe_rendering': app_settings.UNSAFE_RENDERING,
     }
     return ret
+
+# improve views.
